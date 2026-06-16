@@ -16,7 +16,7 @@
 - Anime watcher and Choir member when it comes to actual life 🎤
 - Founder of [Nebula Softworks](https://github.com/Nebula-Softworks) 🪐
 
-[![NoSkid Verification](https://noskid.today/badge/470x200/?repo=mrkillinghunt3r/mrkillinghunt3r&cache=false)](https://noskid.today)
+[![NoSkid Verification](https://noskid.today/badge/470x200/?repo=mrkillinghunt3r/mrkillinghunt3r&cache=false)](https://noskid.today) <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrkillinghunt3r/mrkillinghunt3r/blob/main/noskid/certificate_dark.png?raw=true" /> <img alt="Logo" width="600" src="https://github.com/mrkillinghunt3r/mrkillinghunt3r/blob/main/noskid/certificate_light.png?raw=true"/> </picture>
 
 ***
 
