@@ -4,7 +4,7 @@
   
 ***
   
-![hunt3r's Stats](https://github-readme-stats.vercel.app/api?username=mrkillinghunt3r&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) 
+![hunt3r's Stats](https://github-readme-stats.vercel.app/api?username=mrkillinghunt3r&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true&count_private=true) 
 
 </div>
 
