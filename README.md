@@ -18,6 +18,11 @@
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrkillinghunt3r/mrkillinghunt3r/blob/main/noskid/certificate_dark.png?raw=true" /> <img alt="Logo" width="600" src="https://github.com/mrkillinghunt3r/mrkillinghunt3r/blob/main/noskid/certificate_light.png?raw=true"/> </picture>
 
+## Proficient In:
+![C#](https://img.shields.io/badge/CSharp-255e2b?style=flat-square&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white)
+
 ***
 
 ## Notable OSS Projects
